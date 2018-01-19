@@ -7,4 +7,8 @@ python polya_urns.py
 ```
 
 ## Results
+The random walk produce by the simulator
+![alt text](https://github.com/Neoanarika/Polya-Income/blob/master/process.png)
+
+The final outcome after 10,000 iteration with 1000 as the population
 ![alt text](https://github.com/Neoanarika/Polya-Income/blob/master/population.png)
