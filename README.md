@@ -7,4 +7,4 @@ python polya_urns.py
 ```
 
 ## Results
-![alt text]()
+![alt text](https://github.com/Neoanarika/Polya-Income/blob/master/population.png)
